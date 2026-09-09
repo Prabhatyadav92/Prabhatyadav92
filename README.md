@@ -76,7 +76,6 @@ intelligent, and scalable software applications.
 </p>
 
 ---
-
 ## 💻 Most Used Languages
 
 <p align="center">
@@ -84,7 +83,6 @@ intelligent, and scalable software applications.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatyadav92&layout=compact&theme=tokyonight" />
 
 </p>
-
 ---
 
 ## 📈 Contribution Activity
