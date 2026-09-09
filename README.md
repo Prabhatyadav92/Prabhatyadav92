@@ -80,7 +80,9 @@ intelligent, and scalable software applications.
 
 ## 📈 Contribution Activity
 
-![Prabhat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prabhatyadav92&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatyadav92&theme=tokyo-night&hide_border=true" alt="Prabhat's GitHub Activity Graph" />
+</p>
 
 ---
 
