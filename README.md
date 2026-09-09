@@ -78,17 +78,18 @@ intelligent, and scalable software applications.
 ---
 
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatyadav92&theme=tokyo-night&hide_border=true" alt="Prabhat's GitHub Activity Graph" />
-</p>
+---
 
 ---
 
 ## 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prabhatyadav92&color=blue)
+
+---
+
+
 
 ---
 
