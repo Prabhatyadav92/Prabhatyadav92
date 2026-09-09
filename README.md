@@ -19,7 +19,6 @@ intelligent, and scalable software applications.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -61,34 +60,18 @@ intelligent, and scalable software applications.
 
 ---
 
-
-
----
-
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhatyadav92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatyadav92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatyadav92&theme=tokyonight&hide_border=true" alt="Prabhat's GitHub Streak" />
 </p>
----
-
-
-
----
 
 ---
 
 ## 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prabhatyadav92&color=blue)
-
----
-
-
 
 ---
 
@@ -102,10 +85,6 @@ intelligent, and scalable software applications.
 
 <a href="https://www.linkedin.com/in/prabhat-yadav-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
